@@ -20,9 +20,12 @@ This project implements a data pipeline using Azure Data Factory (ADF), Databric
 ## Datasets used
 The datasets used in this project contain structured CSV files sourced from an online repository. These datasets include relevant information for analysis, such as  calendar records, customer details, product details, sales data and Territories depending on the use case. The data is ingested into Azure Data Lake via ADF, transformed using Databricks, and then made available in Synapse for visualization in Power BI. Below is the link to the datasets:
 
-Github: https://github.com/abbas96635/azure-data-engineering-project/tree/main
+Github: https://github.com/abbas96635/azure-data-engineering-project/tree/main/Data
 
 Original: https://www.kaggle.com/datasets/ukveteran/adventure-works
+
+##Transformation 
+The project uses PySpark for data transformation. After ADF ingests CSV data into Azure Data Lake, PySpark cleans, normalizes, and optimizes it. The processed data is then stored in Synapse as an external table for Power BI visualization. Below is the link to the python file:
 
 
 
