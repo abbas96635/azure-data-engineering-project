@@ -58,10 +58,14 @@ The project uses PySpark for data transformation. After ADF ingests CSV data int
 In Azure Synapse, you can create an external table on a view to enable querying transformed data stored in an Azure Data Lake without physically moving it into Synapse. Azure Synapse does not natively support creating an external table directly on a view, but you can work around this by using CTAS (Create Table As Select) or by leveraging serverless SQL pools. Since Synapse does not allow direct external tables on views, the best practice is to materialize the view as an external table using CTAS. Below are the links to SQL queries to show how external table is created on views.
 
 openrow set function: https://github.com/abbas96635/azure-data-engineering-project/blob/3703e62feff2581ec51e364eec926fbad8e1ff80/create%20openrow%20set.sql
+
 create schema: https://github.com/abbas96635/azure-data-engineering-project/blob/287f269d8266859b33f518855a87059b029421ab/create%20schema.sql
+
 create views: https://github.com/abbas96635/azure-data-engineering-project/blob/ffdc9b0c0c89293ee1d360f294cc8558c1e933cc/create%20views.sql
+
 create external table: https://github.com/abbas96635/azure-data-engineering-project/blob/6fb97facbe68b7f5d57d0d93efa735472a53090e/create%20external%20table.sql
-output: 
+
+output: https://github.com/abbas96635/azure-data-engineering-project/blob/5edde31f893007db4e32e17de84b8b0420fe836a/output%20table.sql
 
 
 
