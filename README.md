@@ -60,7 +60,7 @@ In Azure Synapse, you can create an external table on a view to enable querying 
 openrow set function: https://github.com/abbas96635/azure-data-engineering-project/blob/3703e62feff2581ec51e364eec926fbad8e1ff80/create%20openrow%20set.sql
 create schema: https://github.com/abbas96635/azure-data-engineering-project/blob/287f269d8266859b33f518855a87059b029421ab/create%20schema.sql
 create views: https://github.com/abbas96635/azure-data-engineering-project/blob/ffdc9b0c0c89293ee1d360f294cc8558c1e933cc/create%20views.sql
-create external table:
+create external table: https://github.com/abbas96635/azure-data-engineering-project/blob/6fb97facbe68b7f5d57d0d93efa735472a53090e/create%20external%20table.sql
 output: 
 
 
