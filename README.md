@@ -31,7 +31,9 @@ Azure Data Factory (ADF) allows you to dynamically fetch files from an HTTP sour
 1. Lookup Activity
    - The Lookup Activity retrieves a list of files from an HTTP source (API or metadata file).
    - If the HTTP response contains multiple files, set First Row Only = False to return all file names.
-   - The response should be in JSON or CSV format.
+   - The response should be in JSON format.
+   - Here is the link to the JSON file: 
+     
 
 2. ForEach Activity
    - The ForEach Activity loops through the file names from Lookup output.
