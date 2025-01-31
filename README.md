@@ -27,6 +27,8 @@ Original: https://www.kaggle.com/datasets/ukveteran/adventure-works
 ##Transformation 
 The project uses PySpark for data transformation. After ADF ingests CSV data into Azure Data Lake, PySpark cleans, normalizes, and optimizes it. The processed data is then stored in Synapse as an external table for Power BI visualization. Below is the link to the python file:
 
+Transformation.ipynb
+
 
 
 
