@@ -67,6 +67,12 @@ create external table: https://github.com/abbas96635/azure-data-engineering-proj
 
 output: https://github.com/abbas96635/azure-data-engineering-project/blob/5edde31f893007db4e32e17de84b8b0420fe836a/output%20table.sql
 
+## Power BI report
+
+Power BI is a powerful business intelligence tool by Microsoft that enables data visualization and interactive reporting. It connects to various data sources, transforms raw data into meaningful insights, and allows users to create dynamic dashboards. With features like real-time analytics and AI-powered insights, Power BI helps organizations make data-driven decisions efficiently. Here is the report of data which we have visualised using Power BI.
+
+
+
 
 
 
