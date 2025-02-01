@@ -71,7 +71,9 @@ output: https://github.com/abbas96635/azure-data-engineering-project/blob/5edde3
 
 Power BI is a powerful business intelligence tool by Microsoft that enables data visualization and interactive reporting. It connects to various data sources, transforms raw data into meaningful insights, and allows users to create dynamic dashboards. With features like real-time analytics and AI-powered insights, Power BI helps organizations make data-driven decisions efficiently. Here is the report of data which we have visualised using Power BI.
 
-![Power BI report]()
+Original Power BI report: 
+
+![Power BI report](https://github.com/abbas96635/azure-data-engineering-project/blob/main/power%20bi%20report.jpg)
 
 
 
